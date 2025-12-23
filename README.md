@@ -1,4 +1,3 @@
-# -AUGUST-INFOTECH
 
 # RAG-based Q&A Bot (MVP)
 
